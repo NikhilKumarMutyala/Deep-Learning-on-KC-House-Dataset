@@ -1,1 +1,2 @@
 # Deep-Learning-on-KC-House-Dataset
+The objective of this assignment is to implement deep learning. I loaded the classification data, partitioned it based on requirements, visualized the data, trained it using neural networks and the results are plotted. I have used various network structures with various number of nodes in each hidden layers. The layers are analyzed based on various networks. Tensor flow has been used to train and use the deep neural networks. Other task is to know the information about which network should be used for a problem.
